@@ -27,5 +27,3 @@ To unschedule a device removal from a bandwidth pool by using the UI, follow the
 1. Click **Unschedule**. 
 1. In the side panel that appears, acknowledge that you understand the device removal is no longer scheduled at the end of your billing cycle. Review the summary of billing changes and the new monthly cost of your pool.
 1. Click **Unschedule**. 
-
-![Unscheduling device removal from a bandwidth pool](images/bw-pool-unschedule-device-removal.svg "Unscheduling device removal from a bandwidth pool"){: caption="Figure 1. Unscheduling device removal from a bandwidth pool" caption-side="bottom"}
