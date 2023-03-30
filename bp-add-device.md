@@ -36,5 +36,3 @@ If you want to add devices to a bandwidth pool, follow these steps by using the 
 
 Alternatively, you can access the bandwidth pool's details page to add devices. On the upper right of the device list, click **Add** and select eligible devices to add to your pool.
 {: note}
-
-![Bandwidth summary page](images/bw-summary-page.svg "Bandwidth summary page"){: caption="Figure 1. Bandwidth summary page" caption-side="bottom"}
