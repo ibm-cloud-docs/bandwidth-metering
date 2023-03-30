@@ -31,8 +31,6 @@ To create a bandwidth pool, follow these steps by using the UI:
 1. Click **Create**.
 1. In the bandwidth pool table, click the name of your new bandwidth pool to view and edit its details. 
 
-![Bandwidth pools table](images/bw-pools-table.svg "Bandwidth pools table"){: caption="Figure 1. Bandwidth pools table" caption-side="bottom"}
-
 ## Next steps 
 {: #how-to-create-bw-pool-next-steps}
 
