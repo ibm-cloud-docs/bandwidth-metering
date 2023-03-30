@@ -28,5 +28,3 @@ To rename a bandwidth pool by using the UI, follow these steps:
 1. Click the Actions menu ![Actions menu](../icons/action-menu-icon.svg) for the bandwidth pool and select **Rename**. 
 1. When the **Rename pool** window appears, enter a new unique identifier for your bandwidth pool in the **Name** field.
 1. Click **Update**. 
-
-![Renaming a bandwidth pool modal](images/rename-bw-pool.svg "Renaming a bandwidth pool modal"){: caption="Figure 1. Renaming a bandwidth pool modal" caption-side="bottom"}
