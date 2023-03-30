@@ -30,7 +30,5 @@ To delete a bandwidth pool by using the UI, follow these steps:
 
 1. Select **Scheduled** in the **Deletion** column to check the scheduled cancellation date of the bandwidth pool or to unschedule the bandwidth pool deletion. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-pools?topic=bandwidth-pools-how-to-unscedule-deletion-ibm-cloud-bandwidth-pools).
 
-![Delete a bandwidth pool](images/bw-pool-delete.svg "Delete a bandwidth pool"){: caption="Figure 1. Delete a bandwidth pool" caption-side="bottom"}
-
 Alternatively, you can access the bandwidth pool's details page to delete a bandwidth pool. In the upper right of the bandwidth pool's details page, click the **Actions** menu ![Actions menu](../icons/action-menu-icon.svg), then click **Delete**.
 {: note}
