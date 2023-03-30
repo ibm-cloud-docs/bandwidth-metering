@@ -32,8 +32,6 @@ To add bandwidth while provisioning a virtual server instance by using the UI, f
    Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} website.
    {: important}
 
-![Bandwidth options while provisioning a virtual server instance](images/bw-vsi-provisioning.svg "Bandwidth options while provisioning a virtual server instance"){: caption="Figure 1. Bandwidth options while provisioning a virtual server instance" caption-side="bottom"}
-
 ## Upgrading bandwidth on a virtual server instance
 {: #how-to-upgrade-bw-vsi}
 {: ui}
@@ -50,5 +48,3 @@ To upgrade bandwidth on a virtual server instance by using the UI, follow these 
 
 A 0 GB bandwidth allocation indicates a fully metered device, and an unspecified bandwidth allocation indicates a device with unlimited bandwidth. Both fully metered devices and devices with unlimited bandwidth are ineligible for bandwidth pools. 
 {: note}
-
-![Upgrading bandwidth on a virtual server instance](images/upgrade-bw-vsi.svg "Upgrading bandwidth on a virtual server instance"){: caption="Figure 2. Upgrading bandwidth on a virtual server instance" caption-side="bottom"}
