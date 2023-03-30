@@ -32,5 +32,3 @@ To remove devices from a bandwidth pool by using the UI, follow these steps:
    {: note}
 
 1. Select **Scheduled** status in the **Removal** column in your bandwidth pool's device table to check the scheduled removal date of the device, or to unschedule the device's removal from the pool. For more information, see [Unscheduling device removal from bandwidth pools](/docs/bandwidth-pools?topic=bandwidth-pools-how-to-unschedule-device-removal-from-bw-pools).
-
-![Remove a device from a bandwidth pool](images/bw-remove-device-from-pool.svg "Remove a device from a bandwidth pool"){: caption="Figure 1. Remove a device from a bandwidth pool" caption-side="bottom"}
