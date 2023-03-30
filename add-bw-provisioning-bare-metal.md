@@ -32,8 +32,6 @@ To add bandwidth when you provision a bare metal server in the UI, follow these 
    Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} website.
    {: important}
 
-![Bandwidth options while provisioning bare metal servers](images/bw-bare-metal-provisioning.svg "Bandwidth options while provisioning bare metal servers"){: caption="Figure 1. Bandwidth options while provisioning bare metal servers" caption-side="bottom"}
-
 ## Upgrading bandwidth while provisioning bare metal servers
 {: #how-to-upgrade-bw-bare-metal}
 {: ui}
@@ -50,5 +48,3 @@ To upgrade bandwidth on a bare metal server by using the UI, follow these steps:
 
 A 0 GB bandwidth allocation indicates a fully metered device, and an unspecified bandwidth allocation indicates a device with unlimited bandwidth. Both fully metered devices and devices with unlimited bandwidth are ineligible for bandwidth pools.
 {: note}
-
-![Upgrading bandwidth on a bare metal server](images/upgrade-bw-bare-metal.svg "Upgrading bandwidth on a bare metal server"){: caption="Figure 2. Upgrading bandwidth on a bare metal server" caption-side="bottom"}
