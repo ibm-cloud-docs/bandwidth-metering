@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-15"
+lastupdated: "2023-04-19"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -13,7 +13,7 @@ subcollection: bandwidth-metering
 {{site.data.keyword.attribute-definition-list}}
 
 # About bandwidth metering
-{: #about-bandwidth-mtering}
+{: #about-bandwidth-metering}
 
 To reduce your overall bandwidth costs, it's important to consider your bandwidth metering options. You can purchase and manage bandwidth metering for classic in two ways, through metering on individual devices, or through collective-metering when you add a device to a bandwidth pool. 
 {: shortdesc}
