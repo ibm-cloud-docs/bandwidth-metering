@@ -1,17 +1,17 @@
 {
   "title": "Bandwidth Metering for Classic docs",
-  "lastupdated": "2023-03-17",
-  "introduction": "Manage bandwidth on a range of devices with bandwidth services. Use the docs to plan for, provision, and manage bandwidth on your devices.",
+  "lastupdated": "2023-04-20",
+  "introduction": "Manage bandwidth on a range of devices with bandwidth metering. Use the docs to plan for, provision, and manage bandwidth on your devices.",
   "section_recommended": [
     {
       "title": "Getting started with bandwidth metering",
       "description": "Get started with setting up bandwidth metering.",
-      "href": "/docs/bandwidth-services?topic=bandwidth-services-get-started-with-bandwidth-services"
+      "href": "/docs/bandwidth-metering?topic=bandwidth-metering-get-started-with-bandwidth-metering&interface=ui"
     },
     {
       "title": "About bandwidth metering",
       "description": "Learn more about bandwidth metering, overages, and scheduled devices.",
-      "href": "/docs/bandwidth-services?topic=bandwidth-services-about-bandwidth-services"
+      "href": "/docs/bandwidth-metering?topic=bandwidth-metering-about-bandwidth-metering"
     },
     {
       "title": "Creating bandwidth pools",
