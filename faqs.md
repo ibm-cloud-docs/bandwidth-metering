@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-15"
+lastupdated: "2023-05-05"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -38,12 +38,6 @@ The `BANDWIDTH_MANAGE` IMS infrastructure classic permission is the only require
 Certain actions pertaining to bandwidth pools, including visibility, might be constrained based on device-level permission. Reconcile your device-level permissions on specific devices to manage their bandwidth and membership in pools.
 {: note}
  
-## Is there an extra cost for bandwidth pools?
-{: #bw-pool-cost}
-{: faq}
-
-Yes, there is a $25 USD per device fee that is assigned to the pool per month. The pool itself doesn’t have a stand-alone cost of $25 per month. For example, a $150 server in the pool incurs a $25 one-time fee and $25 per month while the device is in the pool. If you later decide to remove a device from a pool, the device continues to contribute to the pool cost until the end of the billing cycle.
- 
 ## Why don't I see the same number of devices as displayed on the devices count?
 {: #bw-device-count}
 {: faq}
@@ -67,3 +61,9 @@ The allocation that is shown is related to the proration policy. For example, im
 {: faq}
 
 You can attach an unlimited number of devices to a bandwidth pool.
+
+## Is there a charge for traffic on the Classic Private Network?
+{: #bw-classic-traffic-charge}
+{: faq}
+
+There is no charge for traffic between Virtual Servers for Classic or Bare Metal Servers for Classic, on the Classic Private network, within the same Classic account.
