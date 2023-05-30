@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-09"
+lastupdated: "2023-05-27"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ To unschedule a device removal from a bandwidth pool by using the UI, follow the
 1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool that you want to remove a device from. Use the **Region** and **Overage status** filters as necessary.
-1. Click the name of the device to access this bandwidth pool's details page. 
+1. Click the name of the bandwidth pool to access its details page.
 1. In the devices table **Name** column, select the checkboxes next to the devices you want to stop removal from the pool. 
 1. Click **Unschedule**. 
 1. In the side panel that appears, acknowledge that you understand the device removal is no longer scheduled at the end of your billing cycle. Review the summary of billing changes and the new monthly cost of your pool.

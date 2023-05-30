@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-09"
+lastupdated: "2023-05-17"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ To remove devices from a bandwidth pool by using the UI, follow these steps:
 1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool that contains the device that you want to remove. Use the **Region** and **Overage status** filters as necessary.
-1. Click the name of the device to access the bandwidth pool's details page. 
+1. Click the name of the bandwidth pool to access its details page.
 1. In the **Name** column of the devices list table, select the checkboxes next to the devices that you want to remove from the pool. 
 1. Click **Remove**. 
 1. In the side section that appears, acknowledge that you understand that the device remains active in the pool until the next billing date. Review the summary of billing changes and the new monthly cost of your pool.

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-05-05"
+lastupdated: "2023-05-27"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: #price-points}
 {: faq}
 
-* Public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} website.
+* Public bandwidth egress (or bandwidth allocation) pricing depends on regions. To learn more, visit [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} and contact a specialist.
 * Public bandwidth usage over GB allocation is charged per GB.  
  
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
@@ -67,3 +67,9 @@ You can attach an unlimited number of devices to a bandwidth pool.
 {: faq}
 
 There is no charge for traffic between Virtual Servers for Classic or Bare Metal Servers for Classic, on the Classic Private network, within the same Classic account.
+
+## Where do I find detailed analytics about my bandwith usage on particular devices? 
+
+There are bandwidth graphs per device in the {{site.data.keyword.cloud_notm}} console, but these graphs only shows bandwidth use over time. They don't proide information about which IP addresses or ports are using bandwidth. Depending on your operating system or device, you can install tools or utilize pre-installed tools to monitor the per-IP and per-port details of your traffic.
+
+If you need help installing or using these tools, or if you can't locate the bandwidth graphs per device in the portal, contact {{site.data.keyword.cloud_notm}} support. 
