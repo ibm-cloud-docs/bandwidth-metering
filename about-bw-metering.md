@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-04-19"
+lastupdated: "2023-06-23"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -63,8 +63,8 @@ Devices billed hourly (fully metered) and devices with unlimited bandwidth are n
 
 For more information, see [Creating bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools).
 
-## About scheduled devices
-{: #bp-about-scheduled-devices}
+## About pool deletion and device removal
+{: #bp-about-pool-deletion-device-removal}
 
 When you delete a bandwidth pool or remove a device from a bandwidth pool, the deletion and removal aren't instantaneous. These actions are scheduled to take place on the date of your next billing anniversary. For more information, see [Deleting bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-delete-bw-pools) and [Removing devices from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-remove-devices-from-bw-pools).
 
