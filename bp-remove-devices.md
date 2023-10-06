@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-05-17"
+lastupdated: "2023-10-06"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -31,4 +31,4 @@ To remove devices from a bandwidth pool by using the UI, follow these steps:
    The device remains active in your pool and continues to meter until it is permanently removed at the end of your billing cycle. 
    {: note}
 
-1. Select **Scheduled** status in the **Removal** column in your bandwidth pool's device table to check the scheduled removal date of the device, or to unschedule the device's removal from the pool. For more information, see [Unscheduling device removal from bandwidth pools](/docs/bandwidth-pools?topic=bandwidth-pools-how-to-unschedule-device-removal-from-bw-pools).
+1. Select the icon tooltip next to the device name in your bandwidth pool's device table to check the scheduled removal date of the device, or to unschedule the device's removal from the pool. For more information, see [Unscheduling device removal from bandwidth pools](/docs/bandwidth-pools?topic=bandwidth-pools-how-to-unschedule-device-removal-from-bw-pools).

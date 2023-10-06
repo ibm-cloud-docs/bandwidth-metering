@@ -32,7 +32,7 @@ Devices added to a bandwidth pool contribute both their bandwidth allocation and
 ## About device bandwidth
 {: #bs-about-bw}
 
-You can manage each device's bandwidth allocation. When you provision certain devices, you can select the amount of bandwidth that you want to allocate to that device. For each device, you pay for a fixed amount of bandwidth allocation during a billing cycle, and receive a notification when the device is at risk of overage for the billing cycle. For more information, see [Adding Bare Metal Server bandwidth](/docs/bandwidth-services?topic=bandwidth-services-adding-bare-metal-server-bandwidth) and [Adding virtual server instance bandwidth](/docs/bandwidth-services?topic=bandwidth-services-adding-virtual-server-insance-bandwidth).
+You can manage each device's bandwidth allocation. When you provision certain devices, you can select the amount of bandwidth that you want to allocate to that device. For each device, you pay for a fixed amount of bandwidth allocation during a billing cycle, and receive a notification when the device is at risk of overage for the billing cycle. For more information, see [Adding Bare Metal Server bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-managing-bare-metal-server-bandwidth&interface=ui) and [Adding virtual server instance bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-managing-virtual-server-instance-bandwidth&interface=ui).
 
 When the bandwidth usage on a device reaches 85% of its total allocation, the account owner receives notifications.
 {: note}
@@ -68,7 +68,7 @@ For more information, see [Creating bandwidth pools](/docs/bandwidth-services?to
 
 When you delete a bandwidth pool or remove a device from a bandwidth pool, the deletion and removal aren't instantaneous. These actions are scheduled to take place on the date of your next billing anniversary. For more information, see [Deleting bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-delete-bw-pools) and [Removing devices from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-remove-devices-from-bw-pools).
 
-In the time between your requests and the completion of these requests on your billing anniversary, you can unschedule your requests. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-unscedule-deletion-bw-pools) and [Unscheduling device removal from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-unschedule-device-removal-from-bw-pools). 
+In the time between your requests and the completion of these requests on your billing anniversary, you can unschedule your requests. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-unschedule-deletion-bw-pools&interface=ui) and [Unscheduling device removal from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-unschedule-device-removal-from-bw-pools). 
 
 ## Use cases
 {: #bw-metering-use-cases}

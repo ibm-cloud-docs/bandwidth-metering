@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-09"
+lastupdated: "2023-10-06"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -28,7 +28,7 @@ To delete a bandwidth pool by using the UI, follow these steps:
    The pool remains active and continues to meter until it is permanently deleted at the end of your billing cycle. 
    {: note}
 
-1. Select **Scheduled** in the **Deletion** column to check the scheduled cancellation date of the bandwidth pool or to unschedule the bandwidth pool deletion. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-pools?topic=bandwidth-pools-how-to-unscedule-deletion-ibm-cloud-bandwidth-pools).
+1. Select the icon tooltip next to the device name in your bandwidth pool's device table to check the scheduled cancellation date of the bandwidth pool or to unschedule the bandwidth pool deletion. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-unschedule-deletion-bw-pools&interface=ui).
 
 Alternatively, you can access the bandwidth pool's details page to delete a bandwidth pool. In the upper right of the bandwidth pool's details page, click the **Actions** menu ![Actions menu](../icons/action-menu-icon.svg), then click **Delete**.
 {: note}

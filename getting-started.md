@@ -60,6 +60,6 @@ Follow these steps to manage bandwidth metering in your account:
 
 - [Creating bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools)
 
-- [Use case 1: Responding to a device overage notification](/docs/bandwidth-services?topic=bandwidth-services-about-bandwidth-services#bw-how-to-respond-device-overage)
+- [Use case 1: Responding to a device overage notification](/docs/bandwidth-metering?topic=bandwidth-metering-about-bandwidth-metering&interface=ui#bw-how-to-respond-device-overage)
 
-- [Use case 2: Responding to a pool overage notification](/docs/bandwidth-services?topic=bandwidth-services-about-bandwidth-services#bw-how-to-respond-pool-overage)
+- [Use case 2: Responding to a pool overage notification](/docs/bandwidth-metering?topic=bandwidth-metering-about-bandwidth-metering&interface=ui#bw-how-to-respond-pool-overage)
