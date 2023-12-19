@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-09"
+lastupdated: "2023-12-08"
 
 keywords: bandwidth metering
 
@@ -48,3 +48,84 @@ To upgrade bandwidth on a bare metal server by using the UI, follow these steps:
 
 A 0 GB bandwidth allocation indicates a fully metered device, and an unspecified bandwidth allocation indicates a device with unlimited bandwidth. Both fully metered devices and devices with unlimited bandwidth are ineligible for bandwidth pools.
 {: note}
+
+## Pool definitions for bare metal servers
+{: #pool-definitions-bw-bare-metal}
+{: ui}
+
+The pool definitions are listed in the following table:
+
+| Pool      | Location  |
+|------------------|-------|
+| Brazil | SAO01 |
+| | SAO04 |
+| | SAO05 |
+| Dallas  | DAL05 |
+| | DAL06 |
+| | DAL09 |
+| | DAL10 |
+| | DAL12 |
+| | DAL13 |
+| Mexico         | MEX01 |
+| Montreal       | MON01 |
+| San Jose       | SJC01 |
+|       | SJC03 |
+|       | SJC04 |
+| Toronto        | TOR01 |
+| | TOR04 |
+| | TOR05 |
+| Washington DC | WDC01 |
+|  | WDC04 |
+|  | WDC06 |
+|  | WDC07 |
+{: caption="Table 1. Pool definitions North and South America" caption-side="top"}
+{: #americas}
+{: tab-title="Americas"}
+{: tab-group="pool-locations"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+| Pool  | Location  |
+|--------------|-------|
+|Amsterdam  | AMS01 |
+|           | AMS03 |
+| Frankfurt | FRA02 |
+| | FRA04 |
+| | FRA05 |
+| London  | LON02 |
+| | LON04 |
+| | LON05 |
+| | LON06 |
+| Madrid | MAD02 |
+| | MAD04 |
+| | MAD05 |
+| Milan | MIL01 |
+| Paris | PAR01 |
+{: caption="Table 1. Pool definitions Europe" caption-side="top"}
+{: #europe}
+{: tab-title="Europe"}
+{: tab-group="pool-locations"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+| Pool | Location  |
+|--------------|-------|
+| Australia | SYD01 |
+| | SYD04 |
+| | SYD05 |
+| Hong Kong S.A.R. of the PRC | HKG02 |
+| India | CHE01 |
+| Japan         | OSA21 |
+| | OSA22 |
+| | OSA23 |
+| | TOK02 |
+| | TOK04 |
+| | TOK05 |
+| Singapore | SNG01 |
+{: caption="Table 1. Pool definitions Asia Pacific" caption-side="top"}
+{: #asia-pacific}
+{: tab-title="Asia Pacific"}
+{: tab-group="pool-locations"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
