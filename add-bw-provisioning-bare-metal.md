@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-12-08"
+lastupdated: "2023-1-13"
 
 keywords: bandwidth metering
 
@@ -12,7 +12,7 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing bare metal server bandwidth
+# Managing bare metal server bandwidth 
  {: #how-to-add-and-upgrsade-bare-metal-server-bw}
 
 You can add bandwidth when you provision Bare Metal Servers for Classic. You can purchase larger allocations at a reduced cost compared to the overage rate.
@@ -55,29 +55,24 @@ A 0 GB bandwidth allocation indicates a fully metered device, and an unspecified
 
 The pool definitions are listed in the following table:
 
-| Pool      | Location  |
-|------------------|-------|
-| Brazil | SAO01 |
+| Pool Name     | Location  |
+|---------------|-----------|
+| BRA | SAO01 |
 | | SAO04 |
 | | SAO05 |
-| Dallas  | DAL05 |
-| | DAL06 |
-| | DAL09 |
+| US/Canada | DAL09 |
 | | DAL10 |
 | | DAL12 |
 | | DAL13 |
-| Mexico         | MEX01 |
-| Montreal       | MON01 |
-| San Jose       | SJC01 |
-|       | SJC03 |
-|       | SJC04 |
-| Toronto        | TOR01 |
+| | MON01 |
+| | SJC03 |
+| | SJC04 |
+| | TOR01 |
 | | TOR04 |
 | | TOR05 |
-| Washington DC | WDC01 |
-|  | WDC04 |
-|  | WDC06 |
-|  | WDC07 |
+| | WDC04 |
+| | WDC06 |
+| | WDC07 |
 {: caption="Table 1. Pool definitions North and South America" caption-side="top"}
 {: #americas}
 {: tab-title="Americas"}
@@ -85,22 +80,21 @@ The pool definitions are listed in the following table:
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Pool  | Location  |
-|--------------|-------|
-|Amsterdam  | AMS01 |
-|           | AMS03 |
-| Frankfurt | FRA02 |
-| | FRA04 |
-| | FRA05 |
-| London  | LON02 |
+| Pool Name | Location |
+|-----------|----------|
+| ITA | MIL01 |
+|AMS/LON/MAD/PAR | AMS03 |
+| | LON02 |
 | | LON04 |
 | | LON05 |
 | | LON06 |
-| Madrid | MAD02 |
+| | MAD02 |
 | | MAD04 |
 | | MAD05 |
-| Milan | MIL01 |
-| Paris | PAR01 |
+| | PAR01 |
+| FRA | FRA02 |
+| | FRA04 |
+| | FRA05 |
 {: caption="Table 1. Pool definitions Europe" caption-side="top"}
 {: #europe}
 {: tab-title="Europe"}
@@ -108,24 +102,22 @@ The pool definitions are listed in the following table:
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Pool | Location  |
-|--------------|-------|
-| Australia | SYD01 |
+| Pool Name | Location  |
+|-----------|-----------|
+| AUS | SYD01 |
 | | SYD04 |
 | | SYD05 |
-| Hong Kong S.A.R. of the PRC | HKG02 |
-| India | CHE01 |
-| Japan         | OSA21 |
+| IND | CHE01 |
+| SNG/JPN | OSA21 |
 | | OSA22 |
 | | OSA23 |
 | | TOK02 |
 | | TOK04 |
 | | TOK05 |
-| Singapore | SNG01 |
+| | SNG01 |
 {: caption="Table 1. Pool definitions Asia Pacific" caption-side="top"}
 {: #asia-pacific}
 {: tab-title="Asia Pacific"}
 {: tab-group="pool-locations"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
-
