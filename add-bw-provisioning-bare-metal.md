@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-2-12"
+lastupdated: "2024-2-13"
 
 keywords: bandwidth metering
 
@@ -13,7 +13,7 @@ subcollection: bandwidth-metering
 {{site.data.keyword.attribute-definition-list}}
 
 # Managing bare metal server bandwidth
- {: #how-to-add-and-upgrade-bare-metal-server-bw}
+{: #how-to-add-and-upgrade-bare-metal-server-bw}
 
 You can add bandwidth when you provision Bare Metal Servers for Classic. You can purchase larger allocations at a reduced cost compared to the overage rate.
 {: shortdesc}

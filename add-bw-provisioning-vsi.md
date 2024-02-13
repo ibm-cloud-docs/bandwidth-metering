@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-12"
+lastupdated: "2024-02-13"
 
 keywords: bandwidth metering
 
@@ -13,7 +13,7 @@ subcollection: bandwidth-metering
 {{site.data.keyword.attribute-definition-list}}
 
 # Managing virtual server instance bandwidth
- {: #how-to-add-and-upgrade-vsi-bw}
+{: #how-to-add-and-upgrade-vsi-bw}
 
 You can add bandwidth when you provision virtual server instances. You can upgrade bandwidth by purchasing larger allocations at a reduced cost compared to the bandwidth overage rate.
 {: shortdesc}
