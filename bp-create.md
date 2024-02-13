@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2023
-lastupdated: "2023-03-09"
+lastupdated: "2023-02-12"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -34,4 +34,4 @@ To create a bandwidth pool, follow these steps by using the UI:
 ## Next steps 
 {: #how-to-create-bw-pool-next-steps}
 
-For more information about adding devices to your bandwidth pools, see [Adding devices to bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-add-devices-to-ibm-cloud-bandwidth-pools).
+For more information about adding devices to your bandwidth pools, see [Adding devices to bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-add-devices-to-ibm-cloud-bandwidth-pools&interface=ui).

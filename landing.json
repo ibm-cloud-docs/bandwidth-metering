@@ -16,13 +16,13 @@
     {
       "title": "Creating bandwidth pools",
       "description": "Get started with creating bandwidth pools.",
-      "href": "/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools"
+      "href": "/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui"
     }
   ],
   "section_learn": {
     "developer": "https://developer.ibm.com/depmodels/cloud/",
-    "architecture": "https://www.ibm.com/cloud/architecture",
+    "architecture": "https://www.ibm.com/architectures/hybrid",
     "training": "https://www.ibm.com/training/cloud",
-    "community": "https://community.ibm.com/community/user/publiccloud/search?executeSearch=true&SearchTerm=direct%20link&rf=%5EMulti04%3Adirect%5E"
+    "community": "https://community.ibm.com/community/user/home"
   }
 }
