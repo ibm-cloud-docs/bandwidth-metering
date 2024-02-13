@@ -12,8 +12,8 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Managing bare metal server bandwidth 
- {: #how-to-add-and-upgrsade-bare-metal-server-bw}
+# Managing bare metal server bandwidth
+ {: #how-to-add-and-upgrade-bare-metal-server-bw}
 
 You can add bandwidth when you provision Bare Metal Servers for Classic. You can purchase larger allocations at a reduced cost compared to the overage rate.
 {: shortdesc}
@@ -42,9 +42,9 @@ To upgrade bandwidth on a bare metal server by using the UI, follow these steps:
 1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Devices > Device list**.
 1. Click the name of the bare metal server that you are modifying.
-1. On the device's details page, find the VLAN Trunking section, then the Public bandwidth allocation section. Next to the Current billing cycle bandwidth allocation details, click **Modify**. 
-1. Select a bandwidth upgrade option, then select if you want to update the device immediately or schedule the update for a later date and time. 
-1. Add any notes, then click **Continue**. 
+1. On the device's details page, find the VLAN Trunking section, then the Public bandwidth allocation section. Next to the Current billing cycle bandwidth allocation details, click **Modify**.
+1. Select a bandwidth upgrade option, then select if you want to update the device immediately or schedule the update for a later date and time.
+1. Add any notes, then click **Continue**.
 
 A 0 GB bandwidth allocation indicates a fully metered device, and an unspecified bandwidth allocation indicates a device with unlimited bandwidth. Both fully metered devices and devices with unlimited bandwidth are ineligible for bandwidth pools.
 {: note}
