@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-1-13"
+  years: 2022, 2024
+lastupdated: "2024-2-12"
 
 keywords: bandwidth metering
 
@@ -29,7 +29,7 @@ To add bandwidth when you provision a bare metal server in the UI, follow these 
 1. Select the **Bare Metal Servers for Classic** tile and provision your new virtual server instance. To learn more, see [Selecting from the most popular servers](/docs/bare-metal?topic=bare-metal-bm-select-popular-servers).
 1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server's allocation. Bandwidth is offered in tiers.
 
-   Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} website.
+   Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth-pricing){: external} website.
    {: important}
 
 ## Upgrading bandwidth while provisioning bare metal servers

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-06-23"
+  years: 2022, 2024
+lastupdated: "2024-02-12"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -61,14 +61,14 @@ Certain actions and devices are not permitted in bandwidth pooling:
 Devices billed hourly (fully metered) and devices with unlimited bandwidth are not eligible for bandwidth pooling.
 {: important}
 
-For more information, see [Creating bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools).
+For more information, see [Creating bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui).
 
 ## About pool deletion and device removal
 {: #bp-about-pool-deletion-device-removal}
 
-When you delete a bandwidth pool or remove a device from a bandwidth pool, the deletion and removal aren't instantaneous. These actions are scheduled to take place on the date of your next billing anniversary. For more information, see [Deleting bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-delete-bw-pools) and [Removing devices from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-remove-devices-from-bw-pools).
+When you delete a bandwidth pool or remove a device from a bandwidth pool, the deletion and removal aren't instantaneous. These actions are scheduled to take place on the date of your next billing anniversary. For more information, see [Deleting bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-delete-bw-pools&interface=ui) and [Removing devices from bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-remove-devices-from-bw-pools&interface=ui).
 
-In the time between your requests and the completion of these requests on your billing anniversary, you can unschedule your requests. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-unschedule-deletion-bw-pools&interface=ui) and [Unscheduling device removal from bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-unschedule-device-removal-from-bw-pools).
+In the time between your requests and the completion of these requests on your billing anniversary, you can unschedule your requests. For more information, see [Unscheduling deletion of bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-unschedule-deletion-bw-pools&interface=ui) and [Unscheduling device removal from bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-unschedule-device-removal-from-bw-pools&interface=ui).
 
 ## Use cases
 {: #bw-metering-use-cases}
@@ -89,5 +89,5 @@ In this scenario, you receive a notification that your device used 85% of its al
 In this scenario, you receive a notification that the devices in your bandwidth pool used 85% of their collective allocated bandwidth. You have three options for how to respond to this notification.
 
 1. Do nothing and let the devices in your bandwidth pool continue to use bandwidth until the end of your billing cycle. If your devices use over their allocated bandwidth, you are charged an overage fee for your bandwidth pool.
-1. Decide whether purchasing additional bandwidth for any one of the given devices in your bandwidth pool is the right approach. The upgrade applies instantly and the cost associated with this upgrade applies to your current monthly billing cycle. This individual bandwidth allocation is added to the collective bandwidth allocation for your bandwidth pool. For more information, see [Creating bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools).
+1. Decide whether purchasing additional bandwidth for any one of the given devices in your bandwidth pool is the right approach. The upgrade applies instantly and the cost associated with this upgrade applies to your current monthly billing cycle. This individual bandwidth allocation is added to the collective bandwidth allocation for your bandwidth pool. For more information, see [Creating bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui).
 1. Add more devices to your bandwidth pool to increase the total aggregated bandwidth limit of the pool by the individual allocated bandwidth amount of the new device. Adding a device to the pool instantly increases the total aggregated bandwidth limit of your pool. You can't remove the device from the pool until the end of the bandwidth pool's billing cycle.

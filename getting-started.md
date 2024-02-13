@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-03-15"
+  years: 2022, 2024
+lastupdated: "2024-02-12"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -58,7 +58,7 @@ Follow these steps to manage bandwidth metering in your account:
 ## Learn more
 {: #bw-pools-learn-more} 
 
-- [Creating bandwidth pools](/docs/bandwidth-services?topic=bandwidth-services-how-to-create-ibm-cloud-bandwidth-pools)
+- [Creating bandwidth pools](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui)
 
 - [Use case 1: Responding to a device overage notification](/docs/bandwidth-metering?topic=bandwidth-metering-about-bandwidth-metering&interface=ui#bw-how-to-respond-device-overage)
 

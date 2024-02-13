@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-03-09"
+  years: 2022, 2024
+lastupdated: "2024-02-12"
 
 keywords: bandwidth metering
 
@@ -29,7 +29,7 @@ To add bandwidth while provisioning a virtual server instance by using the UI, f
 1. Select the **Virtual Server for Classic** tile and [provision your new virtual server instance](/docs/virtual-servers?topic=virtual-servers-ordering-vs-public).
 1. In the Network interface section, find the **Public egress - bandwidth** option. Then, select the amount of bandwidth that you want to add to your server.
  
-   Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth){: external} website.
+   Public bandwidth usage over GB allocation is charged per GB. Also, public bandwidth egress (or bandwidth allocation) pricing depends on regions as indicated in **Pricing plans by region** on the [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth-pricing){: external} website.
    {: important}
 
 ## Upgrading bandwidth on a virtual server instance
