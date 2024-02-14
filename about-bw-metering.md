@@ -32,7 +32,7 @@ Devices added to a bandwidth pool contribute both their bandwidth allocation and
 ## About device bandwidth
 {: #bs-about-bw}
 
-You can manage each device's bandwidth allocation. When you provision certain devices, you can select the amount of bandwidth that you want to allocate to that device. For each device, you pay for a fixed amount of bandwidth allocation during a billing cycle, and receive a notification when the device is at risk of overage for the billing cycle. For more information, see [Adding Bare Metal Server bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-managing-bare-metal-server-bandwidth&interface=ui) and [Adding virtual server instance bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-managing-virtual-server-instance-bandwidth&interface=ui).
+You can manage each device's bandwidth allocation. When you provision certain devices, you can select the amount of bandwidth that you want to allocate to that device. For each device, you pay for a fixed amount of bandwidth allocation during a billing cycle, and receive a notification when the device is at risk of overage for the billing cycle. For more information, see [Adding Bare Metal Server bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-add-and-upgrsade-bare-metal-server-bw&interface=ui) and [Adding virtual server instance bandwidth](/docs/bandwidth-metering?topic=bandwidth-metering-how-to-add-and-upgrade-vsi-bw&interface=ui).
 
 When the bandwidth usage on a device reaches 85% of its total allocation, the account owner receives notifications.
 {: note}
