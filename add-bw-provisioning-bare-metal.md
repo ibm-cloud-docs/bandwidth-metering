@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-2-13"
+lastupdated: "2024-2-16"
 
 keywords: bandwidth metering
 
@@ -64,6 +64,7 @@ The pool definitions are listed in the following table:
 | | DAL10 |
 | | DAL12 |
 | | DAL13 |
+| | DAL14 |
 | | MON01 |
 | | SJC03 |
 | | SJC04 |
