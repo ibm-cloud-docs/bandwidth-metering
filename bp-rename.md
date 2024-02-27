@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-03-09"
+  years: 2022, 2024
+lastupdated: "2024-02-26"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -28,3 +28,6 @@ To rename a bandwidth pool by using the UI, follow these steps:
 1. Click the Actions menu ![Actions menu](../icons/action-menu-icon.svg) for the bandwidth pool and select **Rename**. 
 1. When the **Rename pool** window appears, enter a new unique identifier for your bandwidth pool in the **Name** field.
 1. Click **Update**. 
+
+Alternatively, you can access the bandwidth pool's details page to rename a bandwidth pool. In the Pool details card, click the edit icon beside the Name field. Rename the pool, then click **Save**.
+{: note}
