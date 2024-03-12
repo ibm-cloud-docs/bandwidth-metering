@@ -15,4 +15,4 @@ subcollection: bandwidth-metering
 # Quotas and service limits for bandwidth metering
 {: #quotas}
 
-No quotas and service limits exist for bandwidth metering. 
+No quotas and service limits exist for bandwidth metering.

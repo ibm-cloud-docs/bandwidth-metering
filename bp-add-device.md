@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 204
-lastupdated: "2024-02-12"
+lastupdated: "2024-02-20"
 
 keywords: bandwidth metering
 
@@ -27,13 +27,15 @@ If you want to add devices to a bandwidth pool from the bandwidth pools page, fo
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
 1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
-1. In the Bandwidth pools table, locate the Bandwidth pool in which you want to add to add a device. Use the **Region** and **Current Usage** filters as necessary.
-1. Click the name of the bandwidth pool to view and edit its details.
-1. In the top right of the Devices table, click the **Add** button.
-1. In the list of Available devices, locate the device that you want to add to a bandwidth pool. Use the **Type** and **Location** filters as necessary.
-   Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-metering?topic=bandwidth-metering-faqs&interface=ui).
-   {: note}
-1. Check the box beside the devices you want to add to your pool.
+1. In the Bandwidth pools table, locate the Bandwidth pool in which you want to add a device. Use the **Region** and **Current Usage** filters as necessary.
+
+   Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-services?topic=bandwidth-services-faqs).
+   {: note}   
+   
+1. Click the name of the bandwidth pool to view and edit its details. 
+1. In the top right of the Devices table, click **Add**. 
+1. In the list of available devices, locate the device that you want to add to a bandwidth pool. Use the **Type** and **Location** filters as necessary.
+1. Select the checkbox next to the devices that you want to add to your pool. 
 1. In the **Summary** section:
     - Review the cost of adding your devices to the pool.
     - Agree to the Terms and Conditions.

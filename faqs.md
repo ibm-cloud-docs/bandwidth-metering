@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-12"
+lastupdated: "2024-02-20"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -68,8 +68,8 @@ You can attach an unlimited number of devices to a bandwidth pool.
 
 There is no charge for traffic between Virtual Servers for Classic or Bare Metal Servers for Classic, on the Classic Private network, within the same Classic account.
 
-## Where do I find detailed analytics about my bandwith usage on particular devices? 
+## Where do I find detailed analytics about my bandwidth usage on particular devices? 
 
-There are bandwidth graphs per device in the {{site.data.keyword.cloud_notm}} console, but these graphs only shows bandwidth use over time. They don't proide information about which IP addresses or ports are using bandwidth. Depending on your operating system or device, you can install tools or utilize pre-installed tools to monitor the per-IP and per-port details of your traffic.
+There are bandwidth graphs per device in the {{site.data.keyword.cloud_notm}} console, but these graphs only shows bandwidth use over time. They don't provide information about which IP addresses or ports are using bandwidth. Depending on your operating system or device, you can install tools or utilize pre-installed tools to monitor the per-IP and per-port details of your traffic.
 
 If you need help installing or using these tools, or if you can't locate the bandwidth graphs per device in the portal, contact {{site.data.keyword.cloud_notm}} support. 

@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2023
-lastupdated: "2023-10-06"
+  years: 2022, 2024
+lastupdated: "2024-02-12"
 
 keywords: bandwidth metering, bandwidth pools
 
