@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 204
-lastupdated: "2024-02-20"
+  years: 2022, 2024
+lastupdated: "2024-04-18"
 
 keywords: bandwidth metering
 
