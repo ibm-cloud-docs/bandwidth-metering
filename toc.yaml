@@ -1,4 +1,3 @@
-
 toc:
   properties:
     subcollection: bandwidth-metering
@@ -11,14 +10,12 @@ toc:
     product-page: https://www.ibm.com/blog/
     path: bandwidth-metering
     label: Bandwidth Metering for Classic
-
   entries:
     - navgroup:
        id: learn
        topics:
        - getting-started.md
        - about-bw-metering.md
-
     - navgroup:
         id: howto
         topics:
@@ -37,12 +34,10 @@ toc:
             - bp-unschedule-device-removal.md
             - bp-delete.md
             - bp-unschedule-delete.md
-            
     - navgroup:
         id: reference
         topics:
         - quotas.md
-
     - navgroup:
         id: help
         topics:
