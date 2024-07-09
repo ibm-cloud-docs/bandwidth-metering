@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-04-18"
+lastupdated: "2024-07-09"
 
 keywords: bandwidth metering
 
@@ -29,7 +29,7 @@ If you want to add devices to a bandwidth pool from the bandwidth pools page, fo
 1. Select **Network > Bandwidth > Pools**.
 1. In the Bandwidth pools table, locate the Bandwidth pool in which you want to add a device. Use the **Region** and **Current Usage** filters as necessary.
 
-   Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-services?topic=bandwidth-services-faqs).
+   Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-metering?topic=bandwidth-metering-faqs&interface=ui).
    {: note}   
    
 1. Click the name of the bandwidth pool to view and edit its details. 
@@ -53,9 +53,11 @@ If you want to add devices to a bandwidth pool from the bandwidth summary page, 
 1. Locate the device that you want to add to a bandwidth pool. Use the **Location** and **Pool** filters as necessary.
    Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-metering?topic=bandwidth-metering-faqs).
    {: note}
+
 1. Under the **Pool** column of the device table, select **Add to pool**.
    Devices that are billed hourly (fully metered) and devices with unlimited allocation are not eligible for bandwidth pools.
    {: note}
+
 1. In the **Add device to a Bandwidth pool** page, view the list of eligible pools.
 1. Select an eligible bandwidth pool to add your device to that pool.
 1. In the **Summary** section:
