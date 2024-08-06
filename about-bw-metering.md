@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-12"
+lastupdated: "2024-08-05"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -37,7 +37,7 @@ You can manage each device's bandwidth allocation. When you provision certain de
 When the bandwidth usage on a device reaches 85% of its total allocation, the account owner receives notifications.
 {: note}
 
-IBM charges for some firewall bandwidth metering. For example, the Hardware Firewall (shared) product is not metered for bandwidth. The Fortigate Security Appliance 10G does receive an included bandwidth allocation, and is charged for egress bandwidth overages after that allocation has been exceeded. Additionally, these products can reduce total bandwidth usage by limiting the traffic that servers must respond to. Because monthly server bandwidth is recorded at the server switch port, traffic that is blocked by the hardware firewall is not counted against your monthly allocations, eliminating the need to pay for unwanted traffic. For more information, see [About Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-about-hardware-firewall-shared-).
+IBM charges for some firewall bandwidth metering. For example, the Hardware Firewall (shared) product is not metered for bandwidth. The Fortigate Security Appliance 10G does receive an included bandwidth allocation, and is charged for egress bandwidth overages after that allocation has been exceeded. Additionally, these products can reduce total bandwidth usage by limiting the traffic that servers must respond to. Because monthly server bandwidth is recorded at the server switch port, traffic that is blocked by the hardware firewall is not counted against your monthly allocations, eliminating the need to pay for unwanted traffic. For more information, see [About Hardware Firewall](/docs/hardware-firewall-shared?topic=hardware-firewall-shared-about-hardware-firewall-shared).
 
 For Citrix Netscaler VPX appliances, you can purchase larger allocations of bandwidth at a reduced cost compared to the overage rate. For more information, see [Ordering a Citrix Netscaler VPX](/docs/citrix-netscaler-vpx?topic=citrix-netscaler-vpx-getting-started#ordering-a-citrix-netscaler-vpx).
 
