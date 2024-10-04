@@ -1,28 +1,24 @@
 {
-  "title": "Bandwidth Metering for Classic docs",
-  "lastupdated": "2023-04-20",
+  "version": 2,
+  "title": "Bandwidth Metering for Classic",
   "introduction": "Manage bandwidth on a range of devices with bandwidth metering. Use the docs to plan for, provision, and manage bandwidth on your devices.",
-  "section_recommended": [
-    {
+  "section_topics": {
+    "links": [    {
       "title": "Getting started with bandwidth metering",
-      "description": "Get started with setting up bandwidth metering.",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-get-started-with-bandwidth-metering&interface=ui"
     },
     {
       "title": "About bandwidth metering",
-      "description": "Learn more about bandwidth metering, overages, and scheduled devices.",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-about-bandwidth-metering"
     },
     {
       "title": "Creating bandwidth pools",
-      "description": "Get started with creating bandwidth pools.",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui"
     }
-  ],
-  "section_learn": {
-    "developer": "https://developer.ibm.com/depmodels/cloud/",
-    "architecture": "https://www.ibm.com/architectures/hybrid",
-    "training": "https://www.ibm.com/training/cloud",
-    "community": "https://community.ibm.com/community/user/home"
+    {
+      "title": "Adding devices to bandwidth pools",
+      "href": "/docs/bandwidth-metering?topic=bandwidth-metering-how-to-add-devices-to-ibm-cloud-bandwidth-pools&interface=ui"
+    }
+    ]
   }
 }
