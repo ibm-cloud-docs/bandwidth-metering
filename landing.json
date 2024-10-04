@@ -3,7 +3,8 @@
   "title": "Bandwidth Metering for Classic",
   "introduction": "Manage bandwidth on a range of devices with bandwidth metering. Use the docs to plan for, provision, and manage bandwidth on your devices.",
   "section_topics": {
-    "links": [    {
+    "links": [
+    {
       "title": "Getting started with bandwidth metering",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-get-started-with-bandwidth-metering&interface=ui"
     },
@@ -14,7 +15,7 @@
     {
       "title": "Creating bandwidth pools",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-how-to-create-ibm-cloud-bandwidth-pools&interface=ui"
-    }
+    },
     {
       "title": "Adding devices to bandwidth pools",
       "href": "/docs/bandwidth-metering?topic=bandwidth-metering-how-to-add-devices-to-ibm-cloud-bandwidth-pools&interface=ui"
