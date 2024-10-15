@@ -41,6 +41,5 @@ toc:
     - navgroup:
         id: help
         topics:
-        - known-limitations.md
         - getting-help.md
         - faqs.md

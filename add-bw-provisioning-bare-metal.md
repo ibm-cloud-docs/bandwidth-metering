@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-16"
+lastupdated: "2024-10-09"
 
 keywords: bandwidth metering
 
@@ -74,7 +74,7 @@ The pool definitions are listed in the following table:
 | | WDC04 |
 | | WDC06 |
 | | WDC07 |
-{: caption="Table 1. Pool definitions North and South America" caption-side="top"}
+{: caption="Pool definitions North and South America" caption-side="top"}
 {: #americas}
 {: tab-title="Americas"}
 {: tab-group="pool-locations"}
@@ -96,7 +96,7 @@ The pool definitions are listed in the following table:
 | FRA | FRA02 |
 | | FRA04 |
 | | FRA05 |
-{: caption="Table 1. Pool definitions Europe" caption-side="top"}
+{: caption="Pool definitions Europe" caption-side="top"}
 {: #europe}
 {: tab-title="Europe"}
 {: tab-group="pool-locations"}
@@ -116,7 +116,7 @@ The pool definitions are listed in the following table:
 | | TOK04 |
 | | TOK05 |
 | | SNG01 |
-{: caption="Table 1. Pool definitions Asia Pacific" caption-side="top"}
+{: caption="Pool definitions Asia Pacific" caption-side="top"}
 {: #asia-pacific}
 {: tab-title="Asia Pacific"}
 {: tab-group="pool-locations"}
