@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-07-09"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -25,7 +25,7 @@ Unscheduling the deletion of the pool does not unschedule the ejection of its me
 To unschedule the deletion of a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool where you want to unschedule the deletion. Use the **Region** and **Overage Status** filters as necessary. The status "Pool deletion scheduled" appears next to the pool name.
 1. Click this status, then click the **Unschedule** button in the tooltip that appears. Alternatively, you can click the **Actions** menu ![Actions menu](../icons/action-menu-icon.svg) at the end of the row, then select the **Unschedule deletion** option.
