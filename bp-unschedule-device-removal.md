@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-29"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -19,7 +19,7 @@ subcollection: bandwidth-metering
 To unschedule a device removal and restore a device to a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Locate the bandwidth pool that you want to restore a device to. Use the **Region** and **Overage status** filters as necessary.
 1. Click the name of the bandwidth pool to access its details page.

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-07-09"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ You must name your bandwidth pool when you create it. You can also rename a band
 To rename a bandwidth pool by using the UI, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**. 
 1. Locate the bandwidth pool that you want to rename. Use the **Region** and **Overage Status** filters as necessary.
 1. Click the Actions menu ![Actions menu](../icons/action-menu-icon.svg) for the bandwidth pool and select **Rename**. 

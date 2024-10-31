@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-12"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ If you experience an issue or have questions when using bandwidth metering for c
 * Check the status of the {{site.data.keyword.cloud_notm}} platform and resources by going to the [Status page](https://cloud.ibm.com/status){: external}.
 * Review [Stack Overflow](https://stackoverflow.com/search?q=cdn+ibm-cloud){: external} to see whether other users ran into the same problem. If you're using the forum to ask a question, tag your question with `ibm-cloud` and `bandwidth-metering` so that it is seen by the {{site.data.keyword.cloud_notm}} development teams.
 
-If you still can't resolve the problem, you can open a support case. For more information, see [Creating support cases](/docs/get-support?topic=get-support-open-case).
+If you still can't resolve the problem, you can open a support case. For more information, see [Creating support cases](/docs/account?topic=account-open-case&interface=ui).
 
 ## Providing support case details for bandwidth metering
 {: #support-case-details-bw-metering}

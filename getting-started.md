@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-10-09"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -50,8 +50,8 @@ Bandwidth pools are beneficial when you have devices with variable month-to-mont
 Follow these steps to manage bandwidth metering in your account:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. From the console, click the Navigation menu ![Navigation menu](../../icons/icon_hamburger.svg) and select **Classic Infrastructure**.
-1. Select **Network > Bandwidth**. 
+1. From the console, click the Navigation menu ![Navigation menu](../../icons/icon_hamburger.svg) and select **Infrastructure > Classic Infrastructure**.
+1. Select **Network > Bandwidth > Summary**. 
 
 ![Managing classic bandwidth](images/classic-bandwidth-ui.svg "Managing classic bandwidth"){: caption="Managing classic bandwidth" caption-side="bottom"}
 

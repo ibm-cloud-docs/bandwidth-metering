@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-07-09"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering
 
@@ -25,7 +25,7 @@ You can add devices to bandwidth pools from the bandwidth summary page or from a
 If you want to add devices to a bandwidth pool from the bandwidth pools page, follow these steps by using the UI:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. In the Bandwidth pools table, locate the Bandwidth pool in which you want to add a device. Use the **Region** and **Current Usage** filters as necessary.
 
@@ -48,7 +48,7 @@ If you want to add devices to a bandwidth pool from the bandwidth pools page, fo
 If you want to add devices to a bandwidth pool from the bandwidth summary page, follow these steps by using the UI:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Summary**.
 1. Locate the device that you want to add to a bandwidth pool. Use the **Location** and **Pool** filters as necessary.
    Each device that you add to a bandwidth pool incurs a cost to the pool. For more information, see [FAQs for bandwidth services](/docs/bandwidth-metering?topic=bandwidth-metering-faqs).

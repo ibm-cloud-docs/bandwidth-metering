@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2024
-lastupdated: "2024-02-12"
+lastupdated: "2024-10-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ By using bandwidth pools, you can combine the individual bandwidth allocations o
 To create a bandwidth pool, follow these steps by using the UI:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
-1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Classic Infrastructure**.
+1. Select the Navigation menu ![Navigation menu](../icons/icon_hamburger.svg), then click **Infrastructure > Classic Infrastructure**.
 1. Select **Network > Bandwidth > Pools**.
 1. Click **Create** in the upper right of the bandwidth pools table.  
 1. In the **Create Bandwidth pool** section, enter the following information:
