@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2024
-lastupdated: "2024-07-09"
+  years: 2022, 2025
+lastupdated: "2025-01-30"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,7 +22,7 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: #price-points}
 {: faq}
 
-* Public bandwidth egress (or bandwidth allocation) pricing depends on regions. To learn more, visit [Bandwidth packages from IBM Cloud](https://www.ibm.com/cloud/bandwidth-pricing){: external} and contact a specialist.
+* Public bandwidth egress (or bandwidth allocation) pricing depends on regions. To learn more, visit the pricing tab on the [VPC Provisioning Page](https://cloud.ibm.com/infrastructure/provision/vpc){: external} in the IBM cloud console.
 * Public bandwidth usage over GB allocation is charged per GB.  
  
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
