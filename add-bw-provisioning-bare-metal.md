@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-01-30"
+lastupdated: "2025-05-08"
 
 keywords: bandwidth metering
 
@@ -22,7 +22,7 @@ You can add bandwidth when you provision Bare Metal Servers for Classic. You can
 {: #how-to-add-bw-to-bare-metal}
 {: ui}
 
-To add bandwidth when you provision a bare metal server in the UI, follow these steps:
+To add bandwidth when you provision a bare metal server in the console, follow these steps:
 
 1. From your browser, open the [{{site.data.keyword.cloud_notm}} console](/login){: external} and log in to your account.
 1. Select **Catalog** from the menu bar on the header.
