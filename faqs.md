@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-01-30"
+lastupdated: "2025-06-26"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,8 +22,20 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: #price-points}
 {: faq}
 
-* Public bandwidth egress (or bandwidth allocation) pricing depends on regions. To learn more, visit the pricing tab on the [VPC Provisioning Page](https://cloud.ibm.com/infrastructure/provision/vpc){: external} in the IBM cloud console.
-* Public bandwidth usage over GB allocation is charged per GB.  
+Public bandwidth egress (or bandwidth allocation) pricing depends on regions.Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free. 
+
+The following table details the Charge metrics for Public bandwidth for classic:
+
+| Charge Metric    | Cost  |
+|---------------|-----------|
+| Data transfer within zone | Provided |
+| Data transfer between zones in the same region | Provided |
+| Data transmitted | |
+| 0 - 9995 GB (per GB) | $0.090915 |
+| 9996 - 49995 GB (per GB) | $0.086735 |
+| 49996 - 149995 GB (per GB) | $0.073150 |
+| 149996+ GB (per GB) | $0.052250 |
+{: caption="Charge Metric for Public bandwidth usage" caption-side="top"}
  
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
 {: #bw-permissions}
