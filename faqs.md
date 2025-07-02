@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-06-26"
+lastupdated: "2025-07-02"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -22,20 +22,81 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: #price-points}
 {: faq}
 
-Public bandwidth egress (or bandwidth allocation) pricing depends on regions.Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free. 
+Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free. 
 
-The following table details the Charge metrics for Public bandwidth for classic:
+The Charge metrics for Public bandwidth usage for classic are listed in the following table:
 
 | Charge Metric    | Cost  |
 |---------------|-----------|
 | Data transfer within zone | Provided |
 | Data transfer between zones in the same region | Provided |
 | Data transmitted | |
-| 0 - 9995 GB (per GB) | $0.090915 |
-| 9996 - 49995 GB (per GB) | $0.086735 |
-| 49996 - 149995 GB (per GB) | $0.073150 |
-| 149996+ GB (per GB) | $0.052250 |
-{: caption="Charge Metric for Public bandwidth usage" caption-side="top"}
+|    250 GB | Provided |
+|    1000 GB | Provided |
+|    5000 GB | Provided |
+|    10000 GB | Provided |
+|    20000 GB | $ |
+|    Overage Rate (per GB) | $0.09/GB |
+{: caption="Charge Metric for Public bandwidth usage in North America" caption-side="top"}
+{: #northamerica}
+{: tab-title="North America"}
+{: tab-group="charge-metrics"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+| Charge Metric    | Cost  |
+|---------------|-----------|
+| Data transfer within zone | Provided |
+| Data transfer between zones in the same region | Provided |
+| Data transmitted | |
+|    250 GB | Provided |
+|    1000 GB | Provided |
+|    5000 GB | Provided |
+|    10000 GB | $725.00 |
+|    20000 GB | $1,550.00 |
+|    Overage Rate (per GB) | $0.18/GB |
+{: caption="Charge Metric for Public bandwidth usage in South America" caption-side="top"}
+{: #southamerica}
+{: tab-title="South America"}
+{: tab-group="charge-metrics"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+| Charge Metric    | Cost  |
+|---------------|-----------|
+| Data transfer within zone | Provided |
+| Data transfer between zones in the same region | Provided |
+| Data transmitted | |
+|    250 GB | Provided |
+|    1000 GB | Provided |
+|    5000 GB | Provided |
+|    10000 GB | Provided |
+|    20000 GB | Provided |
+|    Overage Rate (per GB) | $0.09/GB |
+{: caption="Charge Metric for Public bandwidth usage in Europe" caption-side="top"}
+{: #europe}
+{: tab-title="Europe"}
+{: tab-group="charge-metrics"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+| Charge Metric    | Cost  |
+|---------------|-----------|
+| Data transfer within zone | Provided |
+| Data transfer between zones in the same region | Provided |
+| Data transmitted | |
+|    250 GB | Provided |
+|    1000 GB | Provided |
+|    5000 GB | Provided |
+|    10000 GB | $450.00 |
+|    20000 GB | $950.00 |
+|    Overage Rate (per GB) | $0.11/GB |
+{: caption="Charge Metric for Public bandwidth usage in Asia Pacific and Australia" caption-side="top"}
+{: #asia-pacific}
+{: tab-title="Asia Pacific"}
+{: tab-group="charge-metrics"}
+{: class="simple-tab-table"}
+{: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
  
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
 {: #bw-permissions}
