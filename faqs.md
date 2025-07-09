@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-07-02"
+lastupdated: "2025-07-09"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -30,13 +30,12 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 |---------------|-----------|
 | Data transfer within zone | Provided |
 | Data transfer between zones in the same region | Provided |
-| Data transmitted | |
-  |    250 GB | Provided |
-  |    1000 GB | Provided |
-  |    5000 GB | Provided |
-  |    10000 GB | Provided |
-  |    20000 GB | Provided |
-  |    Overage Rate (per GB) | $0.09/GB |
+| Data transmitted: 250 GB | Provided |
+| Data transmitted: 1000 GB GB | Provided |
+| Data transmitted: 5000 GB | Provided |
+| Data transmitted: 10000 GB | Provided |
+| Data transmitted: 20000 GB | Provided |
+| Overage Rate (per GB) | $0.09/GB |
 {: caption="Charge Metric for Public bandwidth usage in North America" caption-side="top"}
 {: #northamerica}
 {: tab-title="North America"}
@@ -48,12 +47,11 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 |---------------|-----------|
 | Data transfer within zone | Provided |
 | Data transfer between zones in the same region | Provided |
-| Data transmitted | |
-| 250 GB | Provided |
-| 1000 GB | Provided |
-| 5000 GB | Provided |
-| 10000 GB | $725.00 |
-| 20000 GB | $1,550.00 |
+| Data transmitted: 250 GB | Provided |
+| Data transmitted: 1000 GB | Provided |
+| Data transmitted: 5000 GB | Provided |
+| Data transmitted: 10000 GB | $725.00 |
+| Data transmitted: 20000 GB | $1,550.00 |
 | Overage Rate (per GB) | $0.18/GB |
 {: caption="Charge Metric for Public bandwidth usage in South America" caption-side="top"}
 {: #southamerica}
@@ -66,13 +64,12 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 |---------------|-----------|
 | Data transfer within zone | Provided |
 | Data transfer between zones in the same region | Provided |
-| Data transmitted | |
-|    250 GB | Provided |
-|    1000 GB | Provided |
-|    5000 GB | Provided |
-|    10000 GB | Provided |
-|    20000 GB | Provided |
-|    Overage Rate (per GB) | $0.09/GB |
+| Data transmitted: 250 GB | Provided |
+| Data transmitted: 1000 GB | Provided |
+| Data transmitted: 5000 GB | Provided |
+| Data transmitted: 10000 GB | Provided |
+| Data transmitted: 20000 GB | Provided |
+| Overage Rate (per GB) | $0.09/GB |
 {: caption="Charge Metric for Public bandwidth usage in Europe" caption-side="top"}
 {: #europe}
 {: tab-title="Europe"}
@@ -84,13 +81,12 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 |---------------|-----------|
 | Data transfer within zone | Provided |
 | Data transfer between zones in the same region | Provided |
-| Data transmitted | |
-|    250 GB | Provided |
-|    1000 GB | Provided |
-|    5000 GB | Provided |
-|    10000 GB | $450.00 |
-|    20000 GB | $950.00 |
-|    Overage Rate (per GB) | $0.11/GB |
+| Data transmitted: 250 GB | Provided |
+| Data transmitted: 1000 GB | Provided |
+| Data transmitted: 5000 GB | Provided |
+| Data transmitted: 10000 GB | $450.00 |
+| Data transmitted: 20000 GB | $950.00 |
+| Overage Rate (per GB) | $0.11/GB |
 {: caption="Charge Metric for Public bandwidth usage in Asia Pacific and Australia" caption-side="top"}
 {: #asia-pacific}
 {: tab-title="Asia Pacific"}
