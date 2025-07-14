@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-07-09"
+lastupdated: "2025-07-14"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -12,7 +12,7 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQs for bandwidth metering
+# FAQ for bandwidth metering
 {: #faqs}
 
 You can review answers to some frequently asked questions about bandwidth metering.
@@ -22,7 +22,7 @@ You can review answers to some frequently asked questions about bandwidth meteri
 {: #price-points}
 {: faq}
 
-Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free. 
+Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free.
 
 The Charge metrics for Public bandwidth usage for classic are listed in the following table:
 
@@ -93,26 +93,26 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: tab-group="charge-metrics"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
- 
+
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
 {: #bw-permissions}
 {: faq}
- 
+
 The `BANDWIDTH_MANAGE` IMS infrastructure classic permission is the only required permission for bandwidth metering. After you allow this permission, you can complete the following actions:
  - Create a bandwidth pool
  - Move a device into or out of a pool
  - Void a device’s move into a pool
- - Cancel a pool 
+ - Cancel a pool
 
 Certain actions pertaining to bandwidth pools, including visibility, might be constrained based on device-level permission. Reconcile your device-level permissions on specific devices to manage their bandwidth and membership in pools.
 {: note}
- 
+
 ## Why don't I see the same number of devices as displayed on the devices count?
 {: #bw-device-count}
 {: faq}
 
 This issue might be due to permission restrictions because some users do not have permission to view specific devices. This issue might also be the result of devices that were reclaimed in the middle of the billing cycle, but are still contributing to the cost of the pool.
- 
+
 ## What kind of devices generate bandwidth?
 {: #bw-devices-generating-bandwidth}
 {: faq}
@@ -137,10 +137,10 @@ You can attach an unlimited number of devices to a bandwidth pool.
 
 There is no charge for traffic between Virtual Servers for Classic or Bare Metal Servers for Classic, on the Classic Private network, within the same Classic account.
 
-## Where do I find detailed analytics about my bandwidth usage on particular devices? 
+## Where do I find detailed analytics about my bandwidth usage on particular devices?
 {: #bw-usage-analytics}
 {: faq}
 
 There are bandwidth graphs per device in the {{site.data.keyword.cloud_notm}} console, but these graphs only shows bandwidth use over time. They don't provide information about which IP addresses or ports are using bandwidth. Depending on your operating system or device, you can install tools or utilize pre-installed tools to monitor the per-IP and per-port details of your traffic.
 
-If you need help installing or using these tools, or if you can't locate the bandwidth graphs per device in the portal, contact {{site.data.keyword.cloud_notm}} support. 
+If you need help installing or using these tools, or if you can't locate the bandwidth graphs per device in the portal, contact {{site.data.keyword.cloud_notm}} support.
