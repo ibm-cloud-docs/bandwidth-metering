@@ -12,13 +12,13 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQ for classic bandwidth metering
+# FAQ for Classic bandwidth metering
 {: #faqs}
 
-You can review answers to some frequently asked questions about bandwidth metering.
+You can review answers to some frequently asked questions about Classic bandwidth metering.
 {: shortdesc}
 
-## How is classic bandwidth metering priced?
+## How is Classic bandwidth metering priced?
 {: #price-points}
 {: faq}
 
@@ -27,7 +27,7 @@ Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Pu
 Data transfer between zones and nodes is included for free only when the private network is used, not the public network.
 {: note}
 
-The Charge metrics for Public bandwidth usage for classic are listed in the following table:
+The Charge metrics for Public bandwidth usage for Classic are listed in the following table:
 
 | Data Type | Charge Metric | Cost |
 |---------------|-----------|-----------|

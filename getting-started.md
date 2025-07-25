@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2024
-lastupdated: "2024-10-30"
+  years: 2022, 2025
+lastupdated: "2025-07-25"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -12,7 +12,7 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting started with bandwidth metering
+# Getting started with Classic bandwidth metering
 {: #get-started-with-bandwidth-metering}
 
 Use bandwidth metering to manage your device's bandwidth and bandwidth pools. Learn how to choose the best value bandwidth solution, how to respond to overage notices, and how to create and manage bandwidth pools and other bandwidth metering for your devices. 
