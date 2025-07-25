@@ -12,13 +12,13 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQ for Classic bandwidth metering
+# FAQ for classic bandwidth metering
 {: #faqs}
 
 You can review answers to some frequently asked questions about bandwidth metering.
 {: shortdesc}
 
-## How is Classic bandwidth metering priced?
+## How is classic bandwidth metering priced?
 {: #price-points}
 {: faq}
 
