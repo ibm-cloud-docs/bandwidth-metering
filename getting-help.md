@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-05-29"
+lastupdated: "2025-07-25"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -12,10 +12,10 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting help and support for bandwidth metering
+# Getting help and support for classic bandwidth metering
 {: #gettinghelp-bw-metering}
 
-If you experience an issue or have questions when using bandwidth metering for classic, you can use the following resources before you open a support case.
+If you experience an issue or have questions when using bandwidth metering for Classic, you can use the following resources before you open a support case.
 {: shortdesc}
 
 * Ask a question in the [AI assistant](/docs/overview?topic=overview-ask-ai-assistant) from the console or the {{site.data.keyword.cloud_notm}} CLI.
