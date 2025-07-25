@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-07-14"
+lastupdated: "2025-07-25"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -12,30 +12,37 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# FAQ for bandwidth metering
+# FAQ for classic bandwidth metering
 {: #faqs}
 
 You can review answers to some frequently asked questions about bandwidth metering.
 {: shortdesc}
 
-## How is bandwidth metering priced?
+## How is classic bandwidth metering priced?
 {: #price-points}
 {: faq}
 
-Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are free.
+Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Public bandwidth usage over GB allocation is charged per GB. Inbound data transfers are included for free. 
+
+Data transfer between zones and nodes is included for free only when the private network is used, not the public network.
+{: note}
 
 The Charge metrics for Public bandwidth usage for classic are listed in the following table:
 
-| Charge Metric    | Cost  |
-|---------------|-----------|
-| Data transfer within zone | Provided |
-| Data transfer between zones in the same region | Provided |
-| Data transmitted: 250 GB | Provided |
-| Data transmitted: 1000 GB GB | Provided |
-| Data transmitted: 5000 GB | Provided |
-| Data transmitted: 10000 GB | Provided |
-| Data transmitted: 20000 GB | Provided |
-| Overage Rate (per GB) | $0.09/GB |
+| Data Type | Charge Metric | Cost |
+|---------------|-----------|-----------|
+| VSI | 250 GB | $0 (included) |
+| VSI | 1000 GB GB | $45.00 |
+| VSI | 5000 GB | $370.00 |
+| VSI | 10000 GB | $682.00 |
+| VSI | 20000 GB | $999.00 |
+| VSI | Overage Rate (per GB) | $0.09/GB |
+| Bare Metal | 250 GB | $0 (included) |
+| Bare Metal | 1000 GB GB | $0 (included) |
+| Bare Metal | 5000 GB | $0 (included) |
+| Bare Metal | 10000 GB | $0 (included) |
+| Bare Metal | 20000 GB | $0 (included) |
+| Bare Metal | Overage Rate (per GB) | $0.09/GB |
 {: caption="Charge Metric for Public bandwidth usage in North America" caption-side="top"}
 {: #northamerica}
 {: tab-title="North America"}
@@ -43,16 +50,20 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Charge Metric    | Cost  |
-|---------------|-----------|
-| Data transfer within zone | Provided |
-| Data transfer between zones in the same region | Provided |
-| Data transmitted: 250 GB | Provided |
-| Data transmitted: 1000 GB | Provided |
-| Data transmitted: 5000 GB | Provided |
-| Data transmitted: 10000 GB | $725.00 |
-| Data transmitted: 20000 GB | $1,550.00 |
-| Overage Rate (per GB) | $0.18/GB |
+| Data Type | Charge Metric | Cost |
+|---------------|-----------|-----------|
+| VSI | 250 GB | $0 (included) |
+| VSI | 1000 GB | $90.00 |
+| VSI | 5000 GB | $740.00 |
+| VSI | 10000 GB | $1,364.00 |
+| VSI | 20000 GB | $1,998.00 |
+| VSI | Overage Rate (per GB) | $0.18/GB |
+| Bare Metal | 250 GB | $0 (included) |
+| Bare Metal | 1000 GB | $0 (included) |
+| Bare Metal | 5000 GB | $0 (included) |
+| Bare Metal | 10000 GB | $725.00 |
+| Bare Metal | 20000 GB | $1,550.00 |
+| Bare Metal | Overage Rate (per GB) | $0.18/GB |
 {: caption="Charge Metric for Public bandwidth usage in South America" caption-side="top"}
 {: #southamerica}
 {: tab-title="South America"}
@@ -60,16 +71,20 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Charge Metric    | Cost  |
-|---------------|-----------|
-| Data transfer within zone | Provided |
-| Data transfer between zones in the same region | Provided |
-| Data transmitted: 250 GB | Provided |
-| Data transmitted: 1000 GB | Provided |
-| Data transmitted: 5000 GB | Provided |
-| Data transmitted: 10000 GB | Provided |
-| Data transmitted: 20000 GB | Provided |
-| Overage Rate (per GB) | $0.09/GB |
+| Data Type | Charge Metric | Cost |
+|---------------|-----------|-----------|
+| VSI data | 250 GB | $0 (included) |
+| VSI data | 1000 GB | $45.00 |
+| VSI data | 5000 GB | $370.00 |
+| VSI data | 10000 GB | $682.00 |
+| VSI data | 20000 GB | $999.00 |
+| VSI | Overage Rate (per GB) | $0.09/GB |
+| Bare Metal | 250 GB | $0 (included) |
+| Bare Metal | 1000 GB | $0 (included) |
+| Bare Metal | 5000 GB | $0 (included) |
+| Bare Metal | 10000 GB | $0 (included) |
+| Bare Metal | 20000 GB | $0 (included) |
+| Bare Metal | Overage Rate (per GB) | $0.09/GB |
 {: caption="Charge Metric for Public bandwidth usage in Europe" caption-side="top"}
 {: #europe}
 {: tab-title="Europe"}
@@ -77,16 +92,20 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
-| Charge Metric    | Cost  |
-|---------------|-----------|
-| Data transfer within zone | Provided |
-| Data transfer between zones in the same region | Provided |
-| Data transmitted: 250 GB | Provided |
-| Data transmitted: 1000 GB | Provided |
-| Data transmitted: 5000 GB | Provided |
-| Data transmitted: 10000 GB | $450.00 |
-| Data transmitted: 20000 GB | $950.00 |
-| Overage Rate (per GB) | $0.11/GB |
+| Data Type | Charge Metric | Cost |
+|---------------|-----------|-----------|
+| VSI | 250 GB | $0 (included) |
+| VSI | 1000 GB | $60.00 |
+| VSI | 5000 GB | $492.00 |
+| VSI | 10000 GB | $907.00 |
+| VSI | 20000 GB | $1,329.00 |
+| VSI | Overage Rate (per GB) | $0.11/GB |
+| Bare Metal | 250 GB | $0 (included) |
+| Bare Metal | 1000 GB | $0 (included) |
+| Bare Metal | 5000 GB | $0 (included) |
+| Bare Metal | 10000 GB | $450.00 |
+| Bare Metal | 20000 GB | $950.00 |
+| Bare Metal | Overage Rate (per GB) | $0.11/GB |
 {: caption="Charge Metric for Public bandwidth usage in Asia Pacific and Australia" caption-side="top"}
 {: #asia-pacific}
 {: tab-title="Asia Pacific"}
