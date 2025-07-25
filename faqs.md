@@ -96,7 +96,7 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 |---------------|-----------|-----------|
 | VSI | 250 GB | $0 (included) |
 | VSI | 1000 GB | $60.00 |
-| VSI | 5000 GB | $492.00 (included) |
+| VSI | 5000 GB | $492.00 |
 | VSI | 10000 GB | $907.00 |
 | VSI | 20000 GB | $1,329.00 |
 | VSI | Overage Rate (per GB) | $0.11/GB |
