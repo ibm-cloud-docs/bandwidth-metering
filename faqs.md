@@ -27,7 +27,7 @@ Public bandwidth egress (or bandwidth allocation) pricing depends on regions. Pu
 Data transfer between zones and nodes is included for free only when the private network is used, not the public network.
 {: note}
 
-The Charge metrics for Public bandwidth usage for Classic are listed in the following table:
+The Charge Metrics for Public bandwidth usage for Classic are listed in the following table:
 
 | Data Type | Charge Metric | Cost |
 |---------------|-----------|-----------|
