@@ -30,7 +30,7 @@ Data transfer between zones and nodes is included for free only when the private
 The Charge metrics for Public bandwidth usage for classic are listed in the following table:
 
 | Data Type | Charge Metric | Cost |
-|---------------|-----------|
+|---------------|-----------|-----------|
 | VSI | 250 GB | $0 (included) |
 | VSI | 1000 GB GB | $45.00 |
 | VSI | 5000 GB | $370.00 |
@@ -51,7 +51,7 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
 | Data Type | Charge Metric | Cost |
-|---------------|-----------|
+|---------------|-----------|-----------|
 | VSI | 250 GB | $0 (included) |
 | VSI | 1000 GB | $90.00 |
 | VSI | 5000 GB | $740.00 |
@@ -72,7 +72,7 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
 | Data Type | Charge Metric | Cost |
-|---------------|-----------|
+|---------------|-----------|-----------|
 | VSI data | 250 GB | $0 (included) |
 | VSI data | 1000 GB | $45.00 |
 | VSI data | 5000 GB | $370.00 |
@@ -93,7 +93,7 @@ The Charge metrics for Public bandwidth usage for classic are listed in the foll
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
 
 | Data Type | Charge Metric | Cost |
-|---------------|-----------|
+|---------------|-----------|-----------|
 | VSI | 250 GB | $0 (included) |
 | VSI | 1000 GB | $60.00 |
 | VSI | 5000 GB | $492.00 (included) |
