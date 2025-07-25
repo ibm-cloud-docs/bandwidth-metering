@@ -108,7 +108,7 @@ The Charge metrics for Public bandwidth usage for Classic are listed in the foll
 | Bare Metal | Overage Rate (per GB) | $0.11/GB |
 {: caption="Charge Metric for Public bandwidth usage in Asia Pacific and Australia" caption-side="top"}
 {: #asia-pacific}
-{: tab-title="Asia Pacific"}
+{: tab-title="Asia Pacific / Australia"}
 {: tab-group="charge-metrics"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
