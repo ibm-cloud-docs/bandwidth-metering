@@ -18,7 +18,7 @@ subcollection: bandwidth-metering
 You can review answers to some frequently asked questions about bandwidth metering.
 {: shortdesc}
 
-## How is bandwidth metering priced?
+## How is Classic bandwidth metering priced?
 {: #price-points}
 {: faq}
 
