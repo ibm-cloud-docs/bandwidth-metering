@@ -12,7 +12,7 @@ subcollection: bandwidth-metering
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Getting started with Classic bandwidth metering
+# Getting started with classic bandwidth metering
 {: #get-started-with-bandwidth-metering}
 
 Use bandwidth metering to manage your device's bandwidth and bandwidth pools. Learn how to choose the best value bandwidth solution, how to respond to overage notices, and how to create and manage bandwidth pools and other bandwidth metering for your devices. 
