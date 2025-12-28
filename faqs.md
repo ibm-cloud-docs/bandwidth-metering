@@ -2,7 +2,7 @@
 
 copyright:
   years: 2022, 2025
-lastupdated: "2025-07-25"
+lastupdated: "2025-12-28"
 
 keywords: bandwidth metering, bandwidth pools
 
@@ -112,6 +112,12 @@ The Charge Metrics for Public bandwidth usage for Classic are listed in the foll
 {: tab-group="charge-metrics"}
 {: class="simple-tab-table"}
 {: summary="Use the buttons before the table to change the context of the table. The column headers identify the data centers located in the specific geographical area."}
+
+## Is there a cost for adding a device to a bandwidth pool?
+{: #bw-add-pool-cost}
+{: faq}
+
+Each device that you add to a bandwidth pool incurs a cost to the pool. When you are adding devices to bandwidth pools, the **Summary** section displays the cost before you select to add the device.
 
 ## What IMS permissions do I need to view and change bandwidth allocations (or add and remove devices to and from bandwidth pools)?
 {: #bw-permissions}

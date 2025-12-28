@@ -11,35 +11,35 @@ toc:
     path: bandwidth-metering
     label: Bandwidth Metering for Classic
   entries:
-    - navgroup:
-       id: learn
-       topics:
-       - getting-started.md
-       - about-bw-metering.md
-    - navgroup:
-        id: howto
-        topics:
-        - topicgroup:
-            label: Managing device bandwidth
-            topics:
-            - add-bw-provisioning-bare-metal.md
-            - add-bw-provisioning-vsi.md
-        - topicgroup:
-            label: Managing bandwidth pools
-            topics:
-            - bp-create.md
-            - bp-rename.md
-            - bp-add-device.md
-            - bp-remove-devices.md
-            - bp-unschedule-device-removal.md
-            - bp-delete.md
-            - bp-unschedule-delete.md
-    - navgroup:
-        id: reference
-        topics:
-        - quotas.md
-    - navgroup:
-        id: help
-        topics:
-        - getting-help.md
-        - faqs.md
+  - navgroup:
+      id: learn
+      topics:
+      - getting-started.md
+      - about-bw-metering.md
+  - navgroup:
+      id: howto
+      topics:
+      - topicgroup:
+          label: Managing device bandwidth
+          topics:
+          - add-bw-provisioning-bare-metal.md
+          - add-bw-provisioning-vsi.md
+      - topicgroup:
+          label: Managing bandwidth pools
+          topics:
+          - bp-create.md
+          - bp-rename.md
+          - bp-add-device.md
+          - bp-remove-devices.md
+          - bp-unschedule-device-removal.md
+          - bp-delete.md
+          - bp-unschedule-delete.md
+  - navgroup:
+      id: reference
+      topics:
+      - quotas.md
+  - navgroup:
+      id: help
+      topics:
+      - getting-help.md
+      - faqs.md
