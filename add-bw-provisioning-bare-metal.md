@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2022, 2025
-lastupdated: "2025-07-25"
+  years: 2022, 2026
+lastupdated: "2026-02-25"
 
 keywords: bandwidth metering
 
@@ -83,7 +83,6 @@ The pool definitions are listed in the following table:
 
 | Pool Name | Location |
 |-----------|----------|
-| ITA | MIL01 |
 |AMS/LON/MAD/PAR | AMS03 |
 | | LON02 |
 | | LON04 |
